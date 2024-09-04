@@ -39,6 +39,7 @@ const Technologies = () => {
           variants={iconVariants(2.5)}
           initial="initial"
           animate="animate"
+          title="React"
           className="rounded-2xl border-4 border-neutral-800 p-4">
           <RiReactjsLine className="text-7xl text-cyan-400" />
         </motion.div>
@@ -46,6 +47,7 @@ const Technologies = () => {
           variants={iconVariants(3)}
           initial="initial"
           animate="animate"
+          title="React Native"
           className="rounded-2xl border-4 border-neutral-800 p-4">
           <TbBrandReactNative className="text-7xl text-cyan-400" />
         </motion.div>
@@ -53,6 +55,7 @@ const Technologies = () => {
           variants={iconVariants(5)}
           initial="initial"
           animate="animate"
+          title="Nextjs"
           className="rounded-2xl border-4 border-neutral-800 p-4">
           <TbBrandNextjs className="text-7xl" />
         </motion.div>
@@ -60,6 +63,7 @@ const Technologies = () => {
           variants={iconVariants(2)}
           initial="initial"
           animate="animate"
+          title="Nodejs"
           className="rounded-2xl border-4 border-neutral-800 p-4">
           <RiNodejsLine className="text-7xl text-green-500" />
         </motion.div>
@@ -67,6 +71,7 @@ const Technologies = () => {
           variants={iconVariants(6)}
           initial="initial"
           animate="animate"
+          title="TypeScript"
           className="rounded-2xl border-4 border-neutral-800 p-4">
           <BiLogoTypescript className="text-7xl text-blue-600" />
         </motion.div>
@@ -74,6 +79,7 @@ const Technologies = () => {
           variants={iconVariants(3)}
           initial="initial"
           animate="animate"
+          title="PostgreSQL"
           className="rounded-2xl border-4 border-neutral-800 p-4">
           <BiLogoPostgresql className="text-7xl text-sky-700" />
         </motion.div>
@@ -81,6 +87,7 @@ const Technologies = () => {
           variants={iconVariants(5.5)}
           initial="initial"
           animate="animate"
+          title="Tailwind"
           className="rounded-2xl border-4 border-neutral-800 p-4">
           <RiTailwindCssLine className="text-7xl text-cyan-200" />
         </motion.div>
