@@ -1,6 +1,6 @@
-import { FaLinkedin } from "react-icons/fa";
-import { FaGithub } from "react-icons/fa";
-import { RiTwitterXLine } from "react-icons/ri";
+import LinkedInIcon from "@mui/icons-material/LinkedIn";
+import GitHubIcon from "@mui/icons-material/GitHub";
+import XIcon from "@mui/icons-material/X";
 
 const Navbar = () => {
   return (
@@ -8,13 +8,13 @@ const Navbar = () => {
       <div className="flex items-center text-2xl"></div>
       <div className="m-8 flex items-center justify-center gap-4 text-2xl">
         <a href="https://www.linkedin.com/in/jeremycook1/" target="_blank">
-          <FaLinkedin />
+          <LinkedInIcon />
         </a>
         <a href="https://github.com/JC00K" target="_blank">
-          <FaGithub />
+          <GitHubIcon />
         </a>
         <a href="https://x.com/JC00KCS" target="_blank">
-          <RiTwitterXLine />
+          <XIcon />
         </a>
       </div>
     </nav>
