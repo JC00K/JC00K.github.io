@@ -9,14 +9,14 @@ export const EXPERIENCES = [
     company: "YugiTory",
     description:
       "Developed a mobile app for managing Yu-Gi-Oh! card collections and updating decks for competitive play. Built with React Native, Expo, Python, EC2, RDS, and JavaScript.",
-    technologies: ["React Native", "Node.js", "Expo", "AWS", "Python"],
+    technologies: ["React Native", "JavaScript", "Expo", "AWS", "Python"],
   },
   {
     year: "Oct 2021 - Apr 2022",
     role: "Software Engineer Intern",
     company: "ThriveFantasy",
     description: `Enhanced web application user experience by researching and addressing user pain points. Boosted user contest sign-ups by 20% by developing and integrating filters based on entry fees and available prop offerings.`,
-    technologies: ["Javascript", "React.js", "Nodejs", "AWS", "Java"],
+    technologies: ["Javascript", "React", "Node.js", "AWS", "Java"],
   },
   {
     year: "Apr 2020 - Dec 2020",

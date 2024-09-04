@@ -54,7 +54,7 @@ const Technologies = () => {
             <TbBrandReactNative className="text-7xl text-cyan-400" />
           </motion.div>
         </Tooltip>
-        <Tooltip title="Nextjs">
+        <Tooltip title="Next.js">
           <motion.div
             variants={iconVariants(5)}
             initial="initial"
@@ -63,7 +63,7 @@ const Technologies = () => {
             <TbBrandNextjs className="text-7xl" />
           </motion.div>
         </Tooltip>
-        <Tooltip title="Nodejs">
+        <Tooltip title="Node.js">
           <motion.div
             variants={iconVariants(2)}
             initial="initial"
@@ -90,7 +90,7 @@ const Technologies = () => {
             <BiLogoPostgresql className="text-7xl text-sky-700" />
           </motion.div>
         </Tooltip>
-        <Tooltip title="Tailwind">
+        <Tooltip title="Tailwind CSS">
           <motion.div
             variants={iconVariants(5.5)}
             initial="initial"
