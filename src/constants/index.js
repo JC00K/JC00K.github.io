@@ -43,7 +43,16 @@ export const EXPERIENCES = [
 
 export const PROJECTS = [
   {
+    title: "Video Player",
+    repo: "https://github.com/JC00K/educationalvideoplayer",
+    year: "2024",
+    description:
+      "Developed a site where users can upload videos for others to view, and comment.",
+    technologies: ["React", "JavaScript", "Vite"],
+  },
+  {
     title: "Stat To Stat",
+    repo: "https://github.com/Stat-to-Stat/StatToStatv2",
     year: "2024",
     description:
       "Developed a site for comparing player and team stats in the NHL. Originally built in 2021 with React, Material UI, and Sass, it is now being updated with React, TypeScript, Material UI, and the NHL’s new API. The update will introduce a new filter feature for customized stat comparisons.",
@@ -51,6 +60,7 @@ export const PROJECTS = [
   },
   {
     title: "RoulEAT",
+    repo: "https://github.com/RoulEAT/RoulEAT",
     year: "2023",
     description:
       "A site that lets users spin a food wheel to receive restaurant recommendations based on the selected cuisine.",

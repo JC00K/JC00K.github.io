@@ -1,5 +1,6 @@
 import { PROJECTS } from "../constants";
 import { motion } from "framer-motion";
+import GitHubIcon from "@mui/icons-material/GitHub";
 
 const Projects = () => {
   return (
@@ -26,7 +27,13 @@ const Projects = () => {
               initial={{ x: 100, opacity: 0 }}
               transition={{ duration: 1 }}
               className="w-full max-w-xl lg:w-3/4">
-              <h6 className="mb-2 font-semibold">{project.title}</h6>
+              <h6 className="mb-2 font-semibold">
+                {project.title}{" "}
+                <GitHubIcon
+                  className="cursor-pointer mb-1"
+                  onClick={() => window.open(project.repo)}
+                />
+              </h6>
               <p className="mb-4 text-neutral-400">{project.description}</p>
               {project.technologies.map((tech, index) => (
                 <span
