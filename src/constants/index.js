@@ -16,7 +16,7 @@ export const EXPERIENCES = [
     role: "Software Engineer Intern",
     company: "ThriveFantasy",
     description: `Enhanced web application user experience by researching and addressing user pain points. Boosted user contest sign-ups by 20% by developing and integrating filters based on entry fees and available prop offerings.`,
-    technologies: ["Javascript", "React", "Node.js", "AWS", "Java"],
+    technologies: ["JavaScript", "React", "Node.js", "AWS", "Java"],
   },
   {
     year: "Apr 2020 - Dec 2020",
