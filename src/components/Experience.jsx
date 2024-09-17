@@ -26,9 +26,11 @@ const Experience = () => {
               initial={{ x: 100, opacity: 0 }}
               transition={{ duration: 1 }}
               className="w-full max-w-xl lg:w-3/4">
-              <h6 className="mb-2 font-semibold">
+              <a
+                className="mb-2 font-semibold cursor-pointer"
+                onClick={() => window.open(experience.link)}>
                 {experience.company} - {experience.role}
-              </h6>
+              </a>
               <p className="mb-4 text-neutral-400">{experience.description}</p>
               {experience.technologies.map((tech, index) => (
                 <span

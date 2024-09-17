@@ -8,6 +8,7 @@ export const EXPERIENCES = [
   {
     year: "Mar 2024 - Present",
     role: "Front-End Engineer (Contract)",
+    link: "https://github.com/YugiInventory/YugiInventory",
     company: "YugiTory",
     description:
       "Developed a mobile app for Yu-Gi-Oh! card collection management and competitive deck updates using React Native, Expo, Python, EC2, RDS, and JavaScript.",
@@ -17,6 +18,7 @@ export const EXPERIENCES = [
     year: "Oct 2021 - Apr 2022",
     role: "Software Engineer Intern",
     company: "ThriveFantasy",
+    link: "https://www.thrivefantasy.com/",
     description:
       "Improved web application user experience through targeted research and pain point resolution. Implemented entry fee and prop offering filters, resulting in a 20% increase in user contest sign-ups.",
     technologies: ["JavaScript", "React", "Node.js", "AWS", "Java"],
@@ -25,6 +27,7 @@ export const EXPERIENCES = [
     year: "Apr 2020 - Dec 2020",
     role: "Resolutions Specialist",
     company: "Luxottica Group",
+    link: "https://www.essilorluxottica.com/en/",
     description:
       "Resolved backend client issues for up to 100 accounts daily, addressing credit/debit concerns, tax certification, brand-specific partnership access, and product delivery discrepancies.",
     technologies: ["CRM", "SAP", "BackOffice", "Moxie"],
@@ -33,6 +36,7 @@ export const EXPERIENCES = [
     year: "Nov 2018 - Dec 2020",
     role: "Customer Support Coordinator",
     company: "Luxottica Group",
+    link: "https://www.essilorluxottica.com/en/",
     description:
       "Managed daily operations for up to 100 accounts, including processing product orders and handling credit and debit requests on a case-by-case basis.",
     technologies: ["CRM", "SAP"],
@@ -41,6 +45,7 @@ export const EXPERIENCES = [
     year: "Jan 2016 - Oct 2018",
     role: "Quality of Experience (QE) Engineer",
     company: "Disney Streaming Services",
+    link: "https://www.disneyplus.com/home",
     description:
       "Supported development teams by conducting comprehensive device and application testing for 1.8 million concurrent subscribers across multiple platforms, including iOS, Android, Web, Roku, Apple TV, Amazon Fire TV, Xbox One, PlayStation 3 & 4, Samsung Smart TV, and NVIDIA.",
     technologies: ["Jira", "Python", "AWS", "Charles Proxy Capture", "Fiddler"],
