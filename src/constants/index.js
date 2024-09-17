@@ -39,7 +39,7 @@ export const EXPERIENCES = [
   },
   {
     year: "Jan 2016 - Oct 2018",
-    role: "Quality of Experience (QoE) Engineer",
+    role: "Quality of Experience (QE) Engineer",
     company: "Disney Streaming Services",
     description:
       "Supported development teams by conducting comprehensive device and application testing for 1.8 million concurrent subscribers across multiple platforms, including iOS, Android, Web, Roku, Apple TV, Amazon Fire TV, Xbox One, PlayStation 3 & 4, Samsung Smart TV, and NVIDIA.",
