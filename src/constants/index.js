@@ -7,7 +7,7 @@ export const ABOUT_TEXT =
 export const EXPERIENCES = [
   {
     year: "Mar 2024 - Present",
-    role: "Front-End Engineer (Contract)",
+    role: "Front-End Engineer (Freelance)",
     link: "https://github.com/YugiInventory/YugiInventory",
     company: "YugiTory",
     description:
