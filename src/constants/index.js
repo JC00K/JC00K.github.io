@@ -11,8 +11,14 @@ export const EXPERIENCES = [
     link: "https://github.com/YugiInventory/YugiInventory",
     company: "YugiTory",
     description:
-      "Developed a mobile app for Yu-Gi-Oh! card collection management and competitive deck updates using React Native, Expo, Python, EC2, RDS, and JavaScript.",
-    technologies: ["React Native", "JavaScript", "Expo", "AWS", "Python"],
+      "Developed a mobile app for Yu-Gi-Oh! card collection management and competitive deck updates using React Native, Expo, Python, AWS (EC2, RDS, S3), and JavaScript.",
+    technologies: [
+      "React Native",
+      "JavaScript",
+      "Expo",
+      "AWS (EC2, RDS, S3)",
+      "Python",
+    ],
   },
   {
     year: "Oct 2021 - Apr 2022",
