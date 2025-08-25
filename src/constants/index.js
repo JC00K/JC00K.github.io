@@ -6,6 +6,23 @@ export const ABOUT_TEXT =
 
 export const EXPERIENCES = [
   {
+    year: "Jul 2025 - Present",
+    role: "Full Stack Software Engineer (Freelance)",
+    link: "https://www.meetin10.com/",
+    company: "Meet In 10",
+    description:
+      "Assisted in developing a web application that enables users to create and join virtual meetings with ease. Utilized React for the front-end, Node.js and Express for the back-end, and PostgreSQL for database management to ensure a seamless user experience.",
+    technologies: [
+      "React",
+      "JavaScript",
+      "Express",
+      "AWS (S3, CloudFormation)",
+      "Docker",
+      "PostgreSQL",
+      "Boostrap",
+    ],
+  },
+  {
     year: "Mar 2024 - Present",
     role: "Front-End Engineer (Freelance)",
     link: "https://github.com/YugiInventory/YugiInventory",
