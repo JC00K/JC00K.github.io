@@ -19,7 +19,7 @@ export const EXPERIENCES = [
       "AWS (S3, CloudFormation)",
       "Docker",
       "PostgreSQL",
-      "Boostrap",
+      "Bootstrap",
     ],
   },
   {
